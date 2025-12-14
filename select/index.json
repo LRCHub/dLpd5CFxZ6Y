@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Walking Dream",
+  "base_artist": "上原歩夢 (CV.大西亜玖璃)",
+  "createdAt": "2025-12-14T06:07:26.659276Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Walking Dream",
+      "artist": "Patsy Cline",
+      "has_synced": false,
+      "path": "select/01_Walking_Dream_Patsy_Cline.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Walking Dream",
+      "artist": "Cline, Patsy",
+      "has_synced": false,
+      "path": "select/02_Walking_Dream_Cline,_Patsy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Walking Dream",
+      "artist": "Natalie Walker",
+      "has_synced": true,
+      "path": "select/03_Walking_Dream_Natalie_Walker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Walking Dream",
+      "artist": "Ayumu Uehara (CV: Aguri Onishi)",
+      "has_synced": true,
+      "path": "select/04_Walking_Dream_Ayumu_Uehara_(CV__Aguri_Onishi).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Walking Dream",
+      "artist": "上原歩夢 (CV.大西亜玖璃)",
+      "has_synced": false,
+      "path": "select/pl_01_Walking_Dream_上原歩夢_(CV.大西亜玖璃).txt"
+    }
+  ]
+}
